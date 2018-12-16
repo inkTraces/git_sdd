@@ -13,5 +13,8 @@ public class MyGit {
 	public void testRepository() {
 		System.out.println("hello,eclipse");
 	}
+	public void testBranch() {
+		System.out.println("合并dev分支到master主分支");
+	}
 
 }
