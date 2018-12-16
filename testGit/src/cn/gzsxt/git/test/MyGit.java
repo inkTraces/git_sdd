@@ -9,5 +9,9 @@ public class MyGit {
 	public void testGit() {
 		System.out.println("hello,github");
 	}
+	
+	public void testRepository() {
+		System.out.println("hello,eclipse");
+	}
 
 }
