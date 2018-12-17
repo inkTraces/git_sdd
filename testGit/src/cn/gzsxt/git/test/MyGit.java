@@ -6,6 +6,7 @@ public class MyGit {
 		int b = 0;
 		int a = 0;
 		System.out.println("hello,git");
+		System.out.println("从中央仓库检出项目到本地");
 	}
 	
 	public void testGit() {
